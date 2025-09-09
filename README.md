@@ -1,2 +1,2 @@
 # contrans2025
-Congress Transparency Dashboard: A dashboard for displaying public data about members of congress in accessible ways. This was created as an in class coding project for DS6600, the PhD level Data Eng course at UVA. 
+Congress Transparency Dashboard: A dashboard for displaying public data about members of congress in accessible ways. This was created as an in class coding project for DS6600, the PhD level Data Eng course at UVA. d
