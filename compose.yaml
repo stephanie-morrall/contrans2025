@@ -1,10 +1,10 @@
 services:
-  jupyterlab:
+  dashboard:
     image: dashboard
     env_file:
       - .env
     ports:
-      - "8050:8050"
+      - "8051:8051"
     volumes:
       - ./:/contrans2025
     networks:

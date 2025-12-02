@@ -8,7 +8,7 @@ RUN pip install -r requirements.txt
 
 WORKDIR /contrans2025
 
-EXPOSE 8050
+EXPOSE 8051
 
 CMD ["python", "app/app.py"]
 
